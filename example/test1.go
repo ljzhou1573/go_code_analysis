@@ -1,4 +1,4 @@
-package main
+package aa
 
 import "fmt"
 import "strings"
